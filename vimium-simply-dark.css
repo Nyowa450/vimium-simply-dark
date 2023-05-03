@@ -74,6 +74,8 @@
 #vomnibar li em,
 #vomnibar li .vomnibarTitle {
   color: #d7d7d7;
+  font-weight:bold;
+
 }
 
 #vomnibar li .vomnibarUrl {
@@ -87,6 +89,7 @@
 
 #vomnibar li .vomnibarTitle .vomnibarMatch {
   color: #66b5cf;
+  font-weight: bold;
 }
 
 #vomnibar li.vomnibarSelected {
